@@ -49,4 +49,6 @@ Deciding on k value(number of clusters) is a critical step in clustering task. T
 *Elbow method* is a heuristic to determine the optimal number of clusters, by selecting the value of k at the “elbow” ie the point after which the distortion/inertia start decreasing in a linear fashion. In order to see optimal k value, a range of values [2, 15] is used as k value to observe the distortion as a result of clustering task.
 
 
-![elbow-method](figure/elbow_result.png )
+<p align="center">
+  <img width="460" height="300" src="figure/elbow_result.png">
+</p>
