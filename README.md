@@ -44,6 +44,7 @@ The idea of averaging these attributes comes from FIFA game series itself. In FI
   <img height="330" src="figure/fut_features.png">
 </p>
 
+_Figure Reference:[here](https://www.futbin.com/stats-calculator)_
 
 Then, by considering all these features, k-means clustering algorithm is used in order to maximize the intra-class similarity and minimize the interclass similarity between players.
 
