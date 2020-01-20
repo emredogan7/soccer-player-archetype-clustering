@@ -1,5 +1,5 @@
 # Soccer Player Archetype Clustering
-A new approach in soccer scouting: Clustering soccer players using by using FIFA 2019 player attributes data.
+A new approach in soccer scouting: Clustering soccer players by using FIFA 2019 player attributes dataset.
 
 
 ## Motivation
