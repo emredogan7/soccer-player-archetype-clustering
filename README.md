@@ -6,9 +6,9 @@ A new approach in soccer scouting: Clustering soccer players by using FIFA 2019 
 - Replacing an important player in a soccer team is a critical task.
 - Clubs fail to replace these players after they retire/leave.
 
-News for the break-up of Alex de Souza     |  News for the break-up of Cristiano Ronaldo
+News for the break-up of Andres Iniesta     |  News for the break-up of Cristiano Ronaldo
 :-------------------------:|:-------------------------:
-![](figure/alex_leave.jpg)  |  ![](figure/ronaldo_leave.jpg)
+![](figure/iniesta_leave.jpg)  |  ![](figure/ronaldo_leave.jpg)
 
 
 - Finding similar players having a similar gameplaying archetype might help clubs to replace these players more easily.
